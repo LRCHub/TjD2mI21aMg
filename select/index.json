@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SHAMROCK",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-15T20:51:05.165261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paddy's Green Shamrock Shore",
+      "artist": "The Chieftains",
+      "has_synced": true,
+      "path": "select/01_Paddy's_Green_Shamrock_Shore_The_Chieftains.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Little Shamrock Shore",
+      "artist": "The Irish Rovers",
+      "has_synced": true,
+      "path": "select/02_Dear_Little_Shamrock_Shore_The_Irish_Rovers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paddy's Green Shamrock Shore",
+      "artist": "The High Kings",
+      "has_synced": true,
+      "path": "select/03_Paddy's_Green_Shamrock_Shore_The_High_Kings.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shamrock Diaries",
+      "artist": "Chris Rea",
+      "has_synced": false,
+      "path": "select/04_Shamrock_Diaries_Chris_Rea.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Three Leaf Shamrock",
+      "artist": "Daniel O'Donnell",
+      "has_synced": false,
+      "path": "select/05_Three_Leaf_Shamrock_Daniel_O'Donnell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shamrock Shore",
+      "artist": "The Irish Rovers",
+      "has_synced": false,
+      "path": "select/06_Shamrock_Shore_The_Irish_Rovers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shamrock Shore",
+      "artist": "Irish Rovers",
+      "has_synced": false,
+      "path": "select/07_Shamrock_Shore_Irish_Rovers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Dear Little Shamrock Shore / George Millar",
+      "artist": "Irish Rovers",
+      "has_synced": false,
+      "path": "select/08_The_Dear_Little_Shamrock_Shore___George_Millar_Irish_Rovers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shamrock Busker (Live)",
+      "artist": "FIDDLER'S GREEN",
+      "has_synced": false,
+      "path": "select/09_Shamrock_Busker_(Live)_FIDDLER'S_GREEN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shamrock Busker",
+      "artist": "Fiddler's Green",
+      "has_synced": false,
+      "path": "select/10_Shamrock_Busker_Fiddler's_Green.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SHAMROCK",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/11_SHAMROCK_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shamrock",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/12_Shamrock_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shamrock Diaries",
+      "artist": "Chris Rea",
+      "has_synced": false,
+      "path": "select/13_Shamrock_Diaries_Chris_Rea.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shamrock Vivace",
+      "artist": "CLEVER CLOVER",
+      "has_synced": true,
+      "path": "select/14_Shamrock_Vivace_CLEVER_CLOVER.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shamrock",
+      "artist": "Sturgill Simpson",
+      "has_synced": true,
+      "path": "select/15_Shamrock_Sturgill_Simpson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shamrock Busker",
+      "artist": "FIDDLER'S GREEN",
+      "has_synced": true,
+      "path": "select/16_Shamrock_Busker_FIDDLER'S_GREEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHAMROCK",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_SHAMROCK_UVERworld.txt"
+    }
+  ]
+}
